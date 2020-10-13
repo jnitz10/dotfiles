@@ -1,0 +1,58 @@
+! special
+*.foreground:   #a5a2a2
+*.background:   #090300
+*.cursorColor:  #a5a2a2
+
+! black
+*.color0:       #090300
+*.color8:       #5c5855
+
+! red
+*.color1:       #db2d20
+*.color9:       #db2d20
+
+! green
+*.color2:       #01a252
+*.color10:      #01a252
+
+! yellow
+*.color3:       #fded02
+*.color11:      #fded02
+
+! blue
+*.color4:       #01a0e4
+*.color12:      #01a0e4
+
+! magenta
+*.color5:       #a16a94
+*.color13:      #a16a94
+
+! cyan
+*.color6:       #b5e4f4
+*.color14:      #b5e4f4
+
+! white
+*.color7:       #a5a2a2
+*.color15:      #f7f7f7
+!! URxvt Appearance
+URxvt.font:             xft:Dejavu Sans Mono:pixelsize=15:antialias=true
+URxvt.boldFont:         xft:Dejavu Sans Mono:bold:antialias=trd
+urxvt.italicFont:       xft:Dejavu Sans Mono:italic:antialias=true
+urxvt.boldItalicFont:   xft:Dejavu Sans Mono:bold:italic:antialias=true
+URxvt.letterSpace: 0
+URxvt.lineSpace: 0
+URxvt.geometry: 92x24
+URxvt.internalBorder: 24
+URxvt.cursorBlink: true
+URxvt.cursorUnderline: false
+URxvt.saveline: 2048
+URxvt.scrollBar: false
+URxvt.scrollBar_right: false
+URxvt.urgentOnBell: true
+URxvt.depth: 32
+URxvt.iso14755: false
+
+URxvt.background: rgba:1111/1111/1111/7777
+
+!URxvt.transparent: true
+URxvt.shading: 70
